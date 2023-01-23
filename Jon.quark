@@ -1,0 +1,9 @@
+(
+name: "Jon", 
+summary: "An sclang interface for managing a help script for JACK on Linux",
+author: "ianmacdougald", 
+version: "0.0.1", 
+copyright: "ianmacdougald", 
+dependencies: [],
+license: "GPL"
+)
